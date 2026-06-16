@@ -3,10 +3,14 @@
 [![npm](https://img.shields.io/npm/v/@serpcheap/next)](https://www.npmjs.com/package/@serpcheap/next)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Next.js helpers for the [serp.cheap](https://serp.cheap) Google SERP API:
-**server-side key handling**, **result caching** (via `unstable_cache`, cached by
-default with per-query tags), **Server Actions**, and **App Router route
-handlers**. Built on [`@serpcheap/sdk`](https://www.npmjs.com/package/@serpcheap/sdk).
+Next.js integration for the [serp.cheap](https://serp.cheap) **Google Search API** —
+server-side, real-time Google SERP data with **server-side key handling**, **result
+caching** (via `unstable_cache`, cached by default with per-query tags), **Server
+Actions**, and **App Router route handlers**. Built on
+[`@serpcheap/sdk`](https://www.npmjs.com/package/@serpcheap/sdk).
+
+Powered by the **cheapest Google Search API** around: $0.0003 per cached search,
+$0.0006 fresh, no monthly minimum (~10× cheaper than SerpApi).
 
 ## Install
 
