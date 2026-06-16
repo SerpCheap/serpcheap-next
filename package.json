@@ -1,6 +1,6 @@
 {
   "name": "@serpcheap/next",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Next.js helpers for the serp.cheap SERP API — server-side key handling, result caching via unstable_cache with per-query tags, Server Actions, and App Router route handlers.",
   "type": "module",
   "main": "./dist/index.js",
